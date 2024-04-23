@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "ec8d",
+      "email": "giggbit@gmail.com",
+      "login": "Giggbit"
+    },
+    {
+      "id": "f424",
+      "email": "san4es123432@gmail.com",
+      "login": "San4es"
+    },
+    {
+      "id": "a27f",
+      "email": "admin@gmail.com",
+      "login": "admin"
+    },
+    {
+      "id": "4f9f",
+      "email": "wgkostanda@gmail.com",
+      "login": "Kostanda "
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "bread",
+      "price": 35.5
+    },
+    {
+      "id": "2",
+      "title": "milk",
+      "price": 6.5
+    },
+    {
+      "id": "7ace",
+      "title": "eggs",
+      "price": 70
+    }
+  ]
+}
